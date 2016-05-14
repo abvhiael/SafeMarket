@@ -2,7 +2,8 @@
 
 P2P Trade System
 
-[![Join the chat at https://gitter.im/SafeMarket/dapp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SafeMarket/dapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+** This repository will reflect the fork of SafeMarket onto the SOILcoin blockchain, switching to the native currency SOIL. **
+
 
 [Test Reports](/reports/0.6.5/)
 
